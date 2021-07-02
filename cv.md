@@ -2,9 +2,9 @@
 
 ## Contacts: 
 
-- email: blackrook115@gmail.com
-- phone: +7 918 975 51 06
-- telegram: @Dimitos
+- email: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;blackrook115@gmail.com
+- phone: &nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:79189755106">+7 918 975 51 06</a>
+- telegram: [@Dimitos](https://t.me/Dimitos 'Telegram/@Dimitos')
 
 #
 
