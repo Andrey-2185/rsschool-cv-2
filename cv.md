@@ -1,6 +1,6 @@
 # Basalyuk Dmitriy
 
-### Contacts: 
+## Contacts: 
 
 - email: blackrook115@gmail.com
 - phone: +7 918 975 51 06
@@ -8,7 +8,7 @@
 
 #
 
-### About me:
+## About me:
 
 - Hi! I have a great desire to move towards fullstack JavaScript development.
 - My priorities are learning: JavaScript, Node.js, React.js, Vue.js, Typescript.
@@ -17,13 +17,13 @@
 
 #
 
-### Skills: 
+## Skills: 
 
 - HTML, CSS, JavaScript, JQuery, PHP, MySql.
 
 #
 
-### Code:
+## Code example:
 
 ```
     function hello(name){
