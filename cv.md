@@ -1,12 +1,10 @@
 # Basalyuk Dmitriy
 
-## Contacts: 
+## Contacts:
 
 - email: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;blackrook115@gmail.com
 - phone: &nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:79189755106">+7 918 975 51 06</a>
 - telegram: [@Dimitos](https://t.me/Dimitos 'Telegram/@Dimitos')
-
-#
 
 ## About me:
 
@@ -16,13 +14,9 @@
 
 > The first "Hello, World!" I wrote at 49 years old. I have passed the initial level of web development, I have a little experience of commercial work on freelance. Now I am 51 and I want to study at RS School. This proves my learning ability, efficiency and determination.
 
-#
-
-## Skills: 
+## Skills:
 
 - HTML, CSS, JavaScript, JQuery, PHP, MySql.
-
-#
 
 ## Code example:
 
@@ -34,16 +28,12 @@
     hello('RS School');
 ```
 
-#
-
 ## Portfolio:
 
 - One of my works.
   - link: [Expedition](https://ruralisation.ru/expedition 'Expedition')
 - Several of my active and educational projects.
   - link: [Projects](https://domdev.ru/projects 'Projects')
-
-#
 
 ## Work experience:
 
@@ -55,8 +45,6 @@ Project description: html layout, frontend, site support.
 ### _Now_
 
 Freelance, support [ruralisation.ru](https://ruralisation.ru 'Project Ruralisation')
-
-#
 
 ## Education: 
 
@@ -70,10 +58,6 @@ Freelance, support [ruralisation.ru](https://ruralisation.ru 'Project Ruralisati
   - [GeekBrains PHP](https://gb.ru/certificates/682266.en 'Certificate GeekBrains PHP')
   - [GeekBrains MySQL](https://gb.ru/certificates/709713.en 'Certificate GeekBrains MySQL')
 
-#
-
 ## English:
 
 A2 [GeekBrains Certificate English test](https://gb.ru/certificates/650735.en 'Certificate English test')
-
-#
