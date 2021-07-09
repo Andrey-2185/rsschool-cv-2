@@ -87,7 +87,6 @@ a {
 
 .content {
   display: flex;
-  height: 100%;
   background-color: #05a0d2;
   -webkit-box-shadow: -103px 109px 63px 0px rgba(0, 0, 0, 0.5);
   -moz-box-shadow: -103px 109px 63px 0px rgba(0, 0, 0, 0.5);
@@ -95,7 +94,6 @@ a {
 }
 
 .header {
-  height: 315px;
   padding-top: 20px;
 }
 
@@ -105,7 +103,7 @@ a {
 
 .header .section-left {
   padding-top: 20px;
-  padding-bottom: 20px;
+  padding-bottom: 37px;
   border-bottom: 12px solid #ffffff;
 }
 
@@ -115,7 +113,6 @@ a {
 }
 
 .main {
-  height: 697px;
   padding-bottom: 20px;
 }
 
@@ -188,7 +185,7 @@ a {
 }
 
 .main-section-right__wr {
-  padding: 0 35px;
+  padding: 45px 35px 35px;
   background-color: #ffffff;
 }
 
@@ -240,4 +237,9 @@ a {
   height: 100%;
   border-radius: 50%;
   overflow: hidden;
+}
+.block-title {
+  font-size: 1.07em;
+  font-weight: 900;
+  text-transform: uppercase;
 }
