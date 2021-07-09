@@ -51,7 +51,7 @@ Freelance, support [ruralisation.ru](https://ruralisation.ru 'Project Ruralisati
   - [GeekBrains HTML/CSS](https://gb.ru/certificates/606233.en 'Certificate GeekBrains HTML/CSS')
   - [GeekBrains JavaScript](https://gb.ru/certificates/617670.en 'Certificate GeekBrains JavaScript')
   - [GeekBrains PHP](https://gb.ru/certificates/682266.en 'Certificate GeekBrains PHP')
-  - [GeekBrains MySQL](https://gb.ru/certificates/709713.en 'Certificate GeekBrains MySQL')
+  - [GeekBrains MySQL](https://gb.ru/certificates/888600.en 'Certificate GeekBrains MySQL')
 
 ## English:
 
