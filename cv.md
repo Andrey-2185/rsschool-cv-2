@@ -21,19 +21,14 @@
 ## Code example:
 
 ```
-    function hello(name){
-        return `Hello, ${name}!`;
-    }
-
-    hello('RS School');
+    const hello = name => `Hello, ${name}!`;
+    alert(hello('RS School'));
 ```
 
 ## Portfolio:
 
-- One of my works.
-  - link: [Expedition](https://ruralisation.ru/expedition 'Expedition')
-- Several of my active and educational projects.
-  - link: [Projects](https://domdev.ru/projects 'Projects')
+- Here is one of my works: [Expedition](https://ruralisation.ru/expedition 'Expedition')
+- Here are my other active and educational projects: [Projects](https://domdev.ru/projects 'Projects')
 
 ## Work experience:
 
