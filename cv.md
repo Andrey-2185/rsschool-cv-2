@@ -35,11 +35,11 @@
 ### _November 2020 - March 2021 - internship "WebFormula" Krasnodar_
 
 Project role: Html layout.
-Project description: html layout, frontend, site support.
+Project description: html layout, frontend, website support.
 
 ### _Today_
 
-Freelance, support [ruralisation.ru](https://ruralisation.ru 'Project Ruralisation')
+Freelance, support of project sites [Ruralisation.ru](https://ruralisation.ru 'Project Ruralisation'), teaching at [Rs School](https://rs.school/js 'Rs School')  
 
 ## Education: 
 
