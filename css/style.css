@@ -317,3 +317,94 @@ h4 {
 .list-certificate {
   margin-top: 10px;
 }
+
+@media screen and (max-width: 740px) {
+  .content {
+    flex-direction: column-reverse;
+  }
+
+  .section-left,
+  .section-right {
+    width: auto;
+  }
+
+  .header__title {
+    text-align: center;
+    margin: 0 auto;
+  }
+
+  .photo {
+    max-width: 240px;
+    margin: 0 auto;
+  }
+
+  .main .section-right {
+    margin-top: 30px;
+  }
+
+  .main .section-left {
+    padding-bottom: 30px;
+  }
+
+  .footer {
+    padding-bottom: 40px;
+  }
+
+  .title-wrap {
+    justify-content: center;
+  }
+
+  .title-top {
+    width: calc(100% - 60px);
+  }
+}
+
+@media screen and (max-width: 413px) {
+  .section-left {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .header .section-right {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .title-top {
+    width: calc(100% - 30px);
+  }
+
+  .main-section-right__wr {
+    padding: 20px 15px 35px;
+  }
+
+  .container {
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+
+  .header__title span {
+    letter-spacing: 1px;
+  }
+
+  .header__title {
+    line-height: 40px;
+    letter-spacing: 2px;
+  }
+
+  .section__title {
+    font-size: 16px;
+  }
+
+  h5 {
+    font-size: 15px;
+  }
+
+  h4 {
+    font-size: 18px;
+  }
+
+  li {
+    font-size: 12px;
+  }
+}
