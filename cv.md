@@ -2,8 +2,8 @@
 
 ## Contacts:
 
-- email: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;blackrook115@gmail.com
-- phone: &nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:79189755106">+7 918 975 51 06</a>
+- email: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:blackrook115@gmail.com" title="mail">blackrook115@gmail.com</a>
+- phone: &nbsp;&nbsp;&nbsp;&nbsp;<a href="tel:+79189755106" title="phone">+7 918 975 51 06</a>
 - telegram: [@Dimitos](https://t.me/Dimitos 'Telegram/@Dimitos')
 
 ## About me:
@@ -37,7 +37,7 @@
 Project role: Html layout.
 Project description: html layout, frontend, site support.
 
-### _Now_
+### _Today_
 
 Freelance, support [ruralisation.ru](https://ruralisation.ru 'Project Ruralisation')
 
