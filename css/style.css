@@ -234,6 +234,7 @@ p {
 
 .photo__inner {
   height: 100%;
+  background: #83e2ff;
   border-radius: 50%;
   overflow: hidden;
 }
